@@ -300,9 +300,7 @@ proxy.web(req, res, { target: config.betareverseproxytarget, secure: false });
 **How It Works:**
 
 1. **Forward Requests**: Route incoming requests to a different server.
-2. **
-
-Handle Responses**: Send back the response from the target server to the client.
+2. **Handle Responses**: Send back the response from the target server to the client.
 
 ### Express Admin Panel
 
